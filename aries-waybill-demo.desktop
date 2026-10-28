@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Aries Waybill Demo
+Icon=aries-waybill-demo.png
+Type=Application
+Exec=/usr/bin/env bash -lc 'cd "$HOME/aries-waybill-demo" && ./run.sh'
+Terminal=true
