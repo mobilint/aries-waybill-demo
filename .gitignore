@@ -1,0 +1,37 @@
+# Build directories
+/build/
+/build_*/
+/cmake-build-*/
+/CMakeFiles/
+
+# CMake cache and generated files
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/CTestTestfile.cmake
+/Makefile
+/install_manifest.txt
+
+# Local run outputs
+/tmp/
+.ruff_cache/
+*.log
+
+# Native binaries and libraries
+*.a
+*.o
+*.obj
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Editors and OS metadata
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
